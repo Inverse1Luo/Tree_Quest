@@ -1,0 +1,6 @@
+// Ian's config
+
+// no class file should be staged and uploaded, since only the src codes matter
+*.class
+
+// Inverse's config
